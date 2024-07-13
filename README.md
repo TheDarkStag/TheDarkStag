@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheDarkStag
+- 👋 Hi, I’m Akinbile Abdulmumeen Olasubomi
 - 👀 I’m interested in web devlopment using html, css and jaavascript.
 - 🌱 I’m currently learning web dev using java script, tail wind and ui desing using figma
 - 💞️ I’m looking to collaborate on any project involving html, css or javascript. i also do not mind collaborating on wordpress projects
